@@ -1,0 +1,15 @@
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.AssemblyInfoInputs.cache
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.AssemblyInfo.cs
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.csproj.CoreCompileInputs.cache
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.sourcelink.json
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\bin\Debug\net8.0\Lektion1.exe
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\bin\Debug\net8.0\Lektion1.deps.json
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\bin\Debug\net8.0\Lektion1.runtimeconfig.json
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\bin\Debug\net8.0\Lektion1.dll
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\bin\Debug\net8.0\Lektion1.pdb
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.dll
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\refint\Lektion1.dll
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.pdb
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\Lektion1.genruntimeconfig.cache
+C:\Users\Johnn\source\repos\Programmering_Forts\Lektion\TwoDice\obj\Debug\net8.0\ref\Lektion1.dll

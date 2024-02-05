@@ -1,7 +1,20 @@
-﻿internal class TwoDice
+﻿namespace Lektion1
 {
-    private static void Main(string[] args)
+    internal class TwoDice
     {
-        Console.WriteLine("Hello, World!");
+        public static void Main(string[] args)
+        {
+            Random random = new Random();
+            
+            int FirstDie = random.Next(1, 6);
+            int SecondDie = random.Next(1, 6);
+
+            Console.WriteLine($" You rolled " + FirstDie + " And " + SecondDie + " ");
+
+            if (FirstDie == SecondDie) 
+            { Console.WriteLine("Du fick två " +)
+            }
+            
+        }
     }
 }
