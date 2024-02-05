@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup", "Warmup.csproj", "{CBCF8316-C67C-41E1-85BE-303637E58930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Password.csproj", "{5D3BAA3A-A381-4275-9157-C61EC6955F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDice", "..\ThreeDice\ThreeDice.csproj", "{3824593D-9381-4750-B21F-56D165BF00D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCF8316-C67C-41E1-85BE-303637E58930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCF8316-C67C-41E1-85BE-303637E58930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCF8316-C67C-41E1-85BE-303637E58930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCF8316-C67C-41E1-85BE-303637E58930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3BAA3A-A381-4275-9157-C61EC6955F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3BAA3A-A381-4275-9157-C61EC6955F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3BAA3A-A381-4275-9157-C61EC6955F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3BAA3A-A381-4275-9157-C61EC6955F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3824593D-9381-4750-B21F-56D165BF00D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3824593D-9381-4750-B21F-56D165BF00D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3824593D-9381-4750-B21F-56D165BF00D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3824593D-9381-4750-B21F-56D165BF00D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50ABC611-FE5E-40B5-BA72-1F0F97754BD1}
+	EndGlobalSection
+EndGlobal
