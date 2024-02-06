@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Pas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDice", "..\ThreeDice\ThreeDice.csproj", "{3824593D-9381-4750-B21F-56D165BF00D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regnummer", "..\Regnummer\Regnummer.csproj", "{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StenSaxPase", "..\StenSaxPase\StenSaxPase.csproj", "{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3824593D-9381-4750-B21F-56D165BF00D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3824593D-9381-4750-B21F-56D165BF00D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3824593D-9381-4750-B21F-56D165BF00D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
