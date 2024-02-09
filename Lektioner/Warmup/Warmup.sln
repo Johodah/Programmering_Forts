@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup", "Warmup.csproj", "{CBCF8316-C67C-41E1-85BE-303637E58930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warmup", "Warmup.csproj", "{CBCF8316-C67C-41E1-85BE-303637E58930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "..\Password\Password.csproj", "{5D3BAA3A-A381-4275-9157-C61EC6955F8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password", "..\Password\Password.csproj", "{5D3BAA3A-A381-4275-9157-C61EC6955F8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDice", "..\ThreeDice\ThreeDice.csproj", "{3824593D-9381-4750-B21F-56D165BF00D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeDice", "..\ThreeDice\ThreeDice.csproj", "{3824593D-9381-4750-B21F-56D165BF00D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regnummer", "..\Regnummer\Regnummer.csproj", "{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regnummer", "..\Regnummer\Regnummer.csproj", "{8C3DDAD9-0F35-4168-92FD-CAA40C9FCE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StenSaxPase", "..\StenSaxPase\StenSaxPase.csproj", "{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StenSaxPase", "..\StenSaxPase\StenSaxPase.csproj", "{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderGrund", "..\Dagboken\MetoderGrund.csproj", "{F9558D6C-9875-4116-AAFC-A17927FA8724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
