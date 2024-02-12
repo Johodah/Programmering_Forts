@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regnummer", "..\Regnummer\R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StenSaxPase", "..\StenSaxPase\StenSaxPase.csproj", "{F6EAD102-8D6E-44D2-BA66-1A71617B3A9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderGrund", "..\Dagboken\MetoderGrund.csproj", "{F9558D6C-9875-4116-AAFC-A17927FA8724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetoderGrund", "..\Dagboken\MetoderGrund.csproj", "{F9558D6C-9875-4116-AAFC-A17927FA8724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dagbok", "..\Dagbok\Dagbok.csproj", "{BB882C39-2FE9-49C6-A2B4-66B59D845A10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9558D6C-9875-4116-AAFC-A17927FA8724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB882C39-2FE9-49C6-A2B4-66B59D845A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB882C39-2FE9-49C6-A2B4-66B59D845A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB882C39-2FE9-49C6-A2B4-66B59D845A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB882C39-2FE9-49C6-A2B4-66B59D845A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
